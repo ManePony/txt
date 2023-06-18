@@ -1,6 +1,8 @@
 kinopoisk.ru
 hd.kinopoisk.ru
 twitch.tv
+*.twitch.tv
+twitch.tv/*
 *.kinopoisk.ru/*
 ext-strm-cogent17.strm.yandex.net
 yandex.net
